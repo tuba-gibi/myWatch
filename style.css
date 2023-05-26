@@ -1,0 +1,23 @@
+body {
+    background: black;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    color:white;
+  } 
+  
+  .box {
+    background-image:url(https://cdn.pixabay.com/photo/2018/02/16/02/03/pocket-watch-3156771_1280.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 3rem;
+    color: #dedede;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 7px;
+  } 
